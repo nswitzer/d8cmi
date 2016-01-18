@@ -4,6 +4,7 @@ docroot/files
 docroot/sites/*/files
 docroot/sites/*/private
 docroot/sites/*/local-settings.inc
+docroot/sites/*/settings.local.php
 private
 
 CHANGELOG.txt
