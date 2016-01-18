@@ -1,0 +1,14 @@
+uuid: a3d464b8-0b53-4aae-9a00-d7f2b3a9b18f
+name: D8CMI
+mail: nswitzer@elevatedthird.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

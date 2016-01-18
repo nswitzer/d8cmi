@@ -1,0 +1,12 @@
+uuid: 2c137530-7e14-43fa-8a3e-626050171289
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - nswitzer@elevatedthird.com
+reply: ''
+weight: 0
