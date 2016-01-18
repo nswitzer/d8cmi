@@ -714,4 +714,4 @@ if (file_exists(__DIR__ . '/settings.local.php')) {
 }
 
 $settings['install_profile'] = 'standard';
-$config_directories['sync'] = 'sites/default/files/config_0jE-GtdFbHGl0cQPQ5jFKG4DeaeEcka4V5z2FMJnVf1vVyo1PLqIT2QFCroOKJriffcdzKJDUQ/sync';
+$config_directories['sync'] = './../sync';
